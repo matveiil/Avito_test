@@ -1,4 +1,4 @@
-# Avito Search & Ranking Challenge
+# Avito
 
 Решение задачи ранжирования объявлений (Information Retrieval) для платформы Авито. 
 Итоговый скор на платформе: **Recall@50 = 0.630196**.
